@@ -1,0 +1,13 @@
+// Service input
+const arr = [1, 2, 3, 4];
+
+// Conditions
+const condition1 = arr.length > 0;
+const condition2 = 1 === arr[0];
+const i = 2; // assuming i has a value
+const condition3 = x === arr[i];
+
+// Redo & condition
+if (condition1 && condition2 && condition3) {
+    // Your child steps here
+}
